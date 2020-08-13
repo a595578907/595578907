@@ -1,2 +1,2 @@
 # 595578907
-分享更多好用的deb
+Share easy-to-use deb
